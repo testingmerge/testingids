@@ -1,0 +1,52 @@
+#switcher {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  float: right;
+}
+.navbar-default #switcher {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.navbar-inverse #switcher {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+#switcher > a {
+  color: #aaa;
+  float: left;
+  font-size: 19px;
+  height: 36px;
+  text-align: center;
+  text-decoration: none;
+  width: 36px;
+}
+.navbar-default #switcher > a {
+  color: #777;
+}
+.navbar-inverse #switcher > a {
+  color: #fff;
+}
+#switcher > a.active {
+  cursor: default;
+}
+#switcher > a > .fa {
+  display: inline-block;
+  line-height: 1;
+  padding-top: 9px;
+}
+@media (max-width: 767px) {
+  #switcher {
+    position: absolute;
+    right: 65px;
+    top: 0;
+  }
+}
+#switcher-color-default {
+  color: #167edd !important;
+}
+#switcher-color-red {
+  color: #c22 !important;
+}
+#switcher-color-green {
+  color: #40aa04 !important;
+}

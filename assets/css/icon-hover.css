@@ -1,0 +1,309 @@
+.fa:before {
+  display: inline-block;
+}
+
+.fa:after {
+  display: none;
+}
+
+a:hover > .fa-adn.icon-hover-color,
+a.fa-adn.icon-hover-color:hover {
+  color: #4a484c !important;
+}
+
+a:hover > .fa-android.icon-hover-color,
+a.fa-android.icon-hover-color:hover {
+  color: #a4c639 !important;
+}
+
+a:hover > .fa-apple.icon-hover-color,
+a.fa-apple.icon-hover-color:hover {
+  color: black !important;
+}
+
+a:hover > .fa-bitbucket.icon-hover-color,
+a.fa-bitbucket.icon-hover-color:hover, a:hover > .fa-bitbucket-square.icon-hover-color,
+a.fa-bitbucket-square.icon-hover-color:hover {
+  color: #205081 !important;
+}
+
+a:hover > .fa-bitcoin.icon-hover-color,
+a.fa-bitcoin.icon-hover-color:hover, a:hover > .fa-btc.icon-hover-color,
+a.fa-btc.icon-hover-color:hover {
+  color: #f59327 !important;
+}
+
+a:hover > .fa-dribbble.icon-hover-color,
+a.fa-dribbble.icon-hover-color:hover {
+  color: #ea4c89 !important;
+}
+
+a:hover > .fa-dropbox.icon-hover-color,
+a.fa-dropbox.icon-hover-color:hover {
+  color: #3d9ae8 !important;
+}
+
+a:hover > .fa-facebook.icon-hover-color,
+a.fa-facebook.icon-hover-color:hover, a:hover > .fa-facebook-square.icon-hover-color,
+a.fa-facebook-square.icon-hover-color:hover {
+  color: #3b5998 !important;
+}
+
+a:hover > .fa-flickr.icon-hover-color,
+a.fa-flickr.icon-hover-color:hover {
+  color: #0063dc !important;
+}
+
+a:hover > .fa-flickr.icon-hover-color.icon-hover-color-pink,
+a.fa-flickr.icon-hover-color.icon-hover-color-pink:hover {
+  color: #ff0084 !important;
+}
+
+a:hover > .fa-foursquare.icon-hover-color,
+a.fa-foursquare.icon-hover-color:hover {
+  color: #00aeef !important;
+}
+
+a:hover > .fa-github.icon-hover-color,
+a.fa-github.icon-hover-color:hover, a:hover > .fa-github-square.icon-hover-color,
+a.fa-github-square.icon-hover-color:hover, a:hover > .fa-github-alt.icon-hover-color,
+a.fa-github-alt.icon-hover-color:hover {
+  color: #171515 !important;
+}
+
+a:hover > .fa-gittip.icon-hover-color,
+a.fa-gittip.icon-hover-color:hover {
+  color: #614c3e !important;
+}
+
+a:hover > .fa-google-plus.icon-hover-color,
+a.fa-google-plus.icon-hover-color:hover, a:hover > .fa-google-plus-square.icon-hover-color,
+a.fa-google-plus-square.icon-hover-color:hover {
+  color: #db4a39 !important;
+}
+
+a:hover > .fa-html5.icon-hover-color,
+a.fa-html5.icon-hover-color:hover {
+  color: #ec6231 !important;
+}
+
+a:hover > .fa-instagram.icon-hover-color,
+a.fa-instagram.icon-hover-color:hover {
+  color: #634d40 !important;
+}
+
+a:hover > .fa-linkedin.icon-hover-color,
+a.fa-linkedin.icon-hover-color:hover, a:hover > .fa-linkedin-square.icon-hover-color,
+a.fa-linkedin-square.icon-hover-color:hover {
+  color: #0e76a8 !important;
+}
+
+a:hover > .fa-linux.icon-hover-color,
+a.fa-linux.icon-hover-color:hover {
+  color: black !important;
+}
+
+a:hover > .fa-maxcdn.icon-hover-color,
+a.fa-maxcdn.icon-hover-color:hover {
+  color: #f5ae34 !important;
+}
+
+a:hover > .fa-pinterest.icon-hover-color,
+a.fa-pinterest.icon-hover-color:hover, a:hover > .fa-pinterest-square.icon-hover-color,
+a.fa-pinterest-square.icon-hover-color:hover {
+  color: #c8232c !important;
+}
+
+a:hover > .fa-renren.icon-hover-color,
+a.fa-renren.icon-hover-color:hover {
+  color: #105ba3 !important;
+}
+
+a:hover > .fa-rss.icon-hover-color,
+a.fa-rss.icon-hover-color:hover, a:hover > .fa-rss-square.icon-hover-color,
+a.fa-rss-square.icon-hover-color:hover {
+  color: #ee802f !important;
+}
+
+a:hover > .fa-skype.icon-hover-color,
+a.fa-skype.icon-hover-color:hover {
+  color: #22aeee !important;
+}
+
+a:hover > .fa-stack-exchange.icon-hover-color,
+a.fa-stack-exchange.icon-hover-color:hover {
+  color: #10559a !important;
+}
+
+a:hover > .fa-stack-overflow.icon-hover-color,
+a.fa-stack-overflow.icon-hover-color:hover {
+  color: #ef8236 !important;
+}
+
+a:hover > .fa-trello.icon-hover-color,
+a.fa-trello.icon-hover-color:hover {
+  color: #266c95 !important;
+}
+
+a:hover > .fa-tumblr.icon-hover-color,
+a.fa-tumblr.icon-hover-color:hover, a:hover > .fa-tumblr-square.icon-hover-color,
+a.fa-tumblr-square.icon-hover-color:hover {
+  color: #34526f !important;
+}
+
+a:hover > .fa-twitter.icon-hover-color,
+a.fa-twitter.icon-hover-color:hover, a:hover > .fa-twitter-square.icon-hover-color,
+a.fa-twitter-square.icon-hover-color:hover {
+  color: #00acee !important;
+}
+
+a:hover > .fa-vimeo-square.icon-hover-color,
+a.fa-vimeo-square.icon-hover-color:hover {
+  color: #86c9ef !important;
+}
+
+a:hover > .fa-vk.icon-hover-color,
+a.fa-vk.icon-hover-color:hover {
+  color: #406894 !important;
+}
+
+a:hover > .fa-weibo.icon-hover-color,
+a.fa-weibo.icon-hover-color:hover {
+  color: #e22429 !important;
+}
+
+a:hover > .fa-windows.icon-hover-color,
+a.fa-windows.icon-hover-color:hover {
+  color: #00ccff !important;
+}
+
+a:hover > .fa-xing.icon-hover-color,
+a.fa-xing.icon-hover-color:hover, a:hover > .fa-xing-square.icon-hover-color,
+a.fa-xing-square.icon-hover-color:hover {
+  color: #006567 !important;
+}
+
+a:hover > .fa-youtube.icon-hover-color,
+a.fa-youtube.icon-hover-color:hover, a:hover > .fa-youtube-square.icon-hover-color,
+a.fa-youtube-square.icon-hover-color:hover, a:hover > .fa-youtube-play.icon-hover-color,
+a.fa-youtube-play.icon-hover-color:hover {
+  color: #c4302b !important;
+}
+
+.icon-hover-slide, .icon-hover-flip, .icon-hover-color {
+  /*
+   * Slide needs `overflow: hidden` but that used with `display: inline-block`
+   * causes vertical misalignment in Firefox. Here set middle to vertical-align
+   * to "fix" it. See https://bugzilla.mozilla.org/show_bug.cgi?id=491549
+   */
+  vertical-align: middle;
+}
+a > .icon-hover-slide, a > .icon-hover-flip, a > .icon-hover-color {
+  display: inline-block;
+}
+.icon-hover-slide, .icon-hover-flip, .icon-hover-color, .icon-hover-slide:hover, .icon-hover-flip:hover, .icon-hover-color:hover {
+  text-decoration: none;
+}
+
+.icon-hover-slide, .icon-hover-flip {
+  display: inline-block;
+  position: relative;
+}
+.icon-hover-slide:after, .icon-hover-flip:after {
+  display: inherit;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+a:hover > .icon-hover-slide:before, a:hover > .icon-hover-flip:before, .icon-hover-slide:hover:before, .icon-hover-flip:hover:before {
+  -webkit-transition-delay: 0s, 1s;
+  transition-delay: 0s, 1s;
+}
+a:hover > .icon-hover-slide:after, a:hover > .icon-hover-flip:after, .icon-hover-slide:hover:after, .icon-hover-flip:hover:after {
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
+}
+
+.icon-hover-color:before {
+  /* Fix icon crops on hover sometimes in Chrome and Firefox */
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+}
+
+.icon-hover-slide {
+  overflow: hidden;
+  /* Fix icon crops on hover sometimes in Chrome and Firefox */
+  -webkit-transform: translate(0);
+  transform: translate(0);
+}
+.icon-hover-slide:before {
+  -webkit-transition: -webkit-transform 0.3s, color 0s;
+  transition: transform 0.3s, color 0s;
+}
+.icon-hover-slide:after {
+  -webkit-transition: -webkit-transform 0.3s, color 0s 1s;
+  transition: transform 0.3s, color 0s 1s;
+}
+.icon-hover-slide:after {
+  -webkit-transform: translateY(100%);
+  transform: translateY(100%);
+}
+a:hover > .icon-hover-slide:before, .icon-hover-slide:hover:before {
+  -webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+}
+a:hover > .icon-hover-slide:after, .icon-hover-slide:hover:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.icon-hover-flip:before {
+  -webkit-transition: -webkit-transform 0.5s, color 0s;
+  transition: transform 0.5s, color 0s;
+}
+.icon-hover-flip:after {
+  -webkit-transition: -webkit-transform 0.5s, color 0s 1s;
+  transition: transform 0.5s, color 0s 1s;
+}
+.icon-hover-flip:before, .icon-hover-flip:after {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.icon-hover-flip:before {
+  -webkit-transform: perspective(100px) rotateY(0);
+  transform: perspective(100px) rotateY(0);
+}
+.icon-hover-flip:after {
+  -webkit-transform: perspective(100px) rotateY(-180deg);
+  transform: perspective(100px) rotateY(-180deg);
+}
+a:hover > .icon-hover-flip:before, .icon-hover-flip:hover:before {
+  -webkit-transform: perspective(100px) rotateY(180deg);
+  transform: perspective(100px) rotateY(180deg);
+}
+a:hover > .icon-hover-flip:after, .icon-hover-flip:hover:after {
+  -webkit-transform: perspective(100px) rotateY(0);
+  transform: perspective(100px) rotateY(0);
+}
+
+/*
+ * For Chrome. `backface-visibility: hidden` may not works if GPU acceleration
+ * is disabled. Here is the fallback.
+ */
+@media not all and (-webkit-transform-3d) {
+  .icon-hover-flip:after {
+    display: none;
+  }
+  a:hover > .icon-hover-flip:before, .icon-hover-flip:hover:before {
+    -webkit-transform: none;
+    transform: none;
+    -webkit-transition: none;
+    transition: none;
+  }
+  a:hover > .icon-hover-flip.icon-hover-color:before, .icon-hover-flip.icon-hover-color:hover:before {
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+  }
+}
